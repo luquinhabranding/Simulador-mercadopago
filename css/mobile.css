@@ -1,0 +1,207 @@
+#navbar{
+    height: 80px;
+    width: 100%
+}
+.navbar-container{
+    
+    flex-direction: column;
+    padding: 20px 0;
+}
+
+#preencher{
+    height: 50vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    color: #141414;
+
+}
+#preencher-title{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    text-align: center;
+    font-size: 10px;
+
+    transform: translate(-50%,-50% );
+}
+
+
+#navbar-items li{
+    display: grid;
+    grid-template-columns: auto;
+    text-align: start;
+    font-weight: bold;
+    width: 100%;
+    padding: 1%;
+
+
+}
+
+#navbar-items li:nth-child(2){
+    border-top: #141414;
+    border-top: #141414;
+
+
+}
+
+.botao{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50% );
+}
+
+.resultados{
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%,-50% )
+
+}
+.text-logo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50% )
+
+}
+.bloco1{
+    position: absolute;
+    top: 65%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+.bloco2{
+    position: absolute;
+    top: 65%;
+    left: 75%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco3{
+    position: absolute;
+    top: 80%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco4{
+    position: absolute;
+    top: 80%;
+    left: 75%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco5{
+    position: absolute;
+    top: 95%;
+    left: 75%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco6{
+    position: absolute;
+    top: 95%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+.resultados-MP{
+
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    transform: translate(-50%,-50% )
+
+}
+
+.bloco1-mp{
+    position: absolute;
+    top: 115%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco2-mp{
+    position: absolute;
+    top: 115%;
+    left: 75%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco3-mp{
+    position: absolute;
+    top: 130%;
+    left: 75%;
+    transform: translate(-50%,-50% );
+    
+
+}
+.bloco4-mp{
+    position: absolute;
+    top: 130%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+.bloco5-mp{
+    position: absolute;
+    top: 145%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco5-mp{
+    position: absolute;
+    top: 145%;
+    left: 75%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco6-mp{
+    position: absolute;
+    top: 145%;
+    left: 25%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+.bloco7-mp{
+    width: 540px;
+    position: absolute;
+    top: 180%;
+    left: 108%;
+    transform: translate(-50%,-50% );
+    
+
+}
+
+#footer{
+    position: absolute;
+    top: 300%;
+    left: 110%;
+    transform: translate(-50%,-50% )
+
+}
